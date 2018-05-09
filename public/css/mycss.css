@@ -1,0 +1,26 @@
+table{
+    transition: background-color 0.5s ease;
+}
+tr{
+    transition: background-color 0.5s ease;
+}
+td{
+    transition: background-color 0.5s ease;
+}
+.expand-table-header{
+    background-color: #f5f8fa;
+    transition: background-color 0.5s ease;
+}
+.expand-table-header:hover {
+    background-color: green;
+}
+.expand-subtable{
+    background-color: #f5f8fa;
+    transition: background-color 0.5s;
+}
+.expand-subtable:hover{
+    background-color: green;
+}
+#switchable{
+
+}
